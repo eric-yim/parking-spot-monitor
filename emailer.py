@@ -45,7 +45,7 @@ if __name__=='__main__':
         'receiver_email': "XX-RECEIVER-XX@gmail.com",
         'subject': "Hello from Python!",
         'message': "This is a test email sent from a Python script.",
-        'image': 'parking.jpg',
+        'image': 'sample.jpg',
         'region': 'us-east-1'
     }
     send_email(**EMAIL_PARAMS)
