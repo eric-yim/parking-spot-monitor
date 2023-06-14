@@ -3,7 +3,7 @@
 This is the repository for the video demonstration here:
 
 - [Tiktok](https://www.tiktok.com/@codingai/video/7239046318646168875)
-- [YouTube]()
+- [YouTube](https://youtu.be/G2wkCqTgyx8)
 
 This is a demonstration, and no support will be provided.
 
